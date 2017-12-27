@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  <!--  -->
+  <!-- en cours de correction par Ash -->
   <!--  -->
    <category>
     <pattern>* COMBIENS DE TEMPS</pattern>
@@ -56,7 +56,7 @@
   </category>
   <category>
     <pattern>AVEC COMBIEN DE GENS TU AS PARLÉ</pattern>
-    <template>je parle à environ 200 personnes par jour et j'ai rencontré peut-être la moitié d'un million au total.</template>
+    <template>je parle à environ 200 personnes par jour et j'ai rencontré un demi-million au total.</template>
   </category>
   <category>
     <pattern>AVEC COMBIEN DE GENS TU PARLES</pattern>
@@ -149,7 +149,7 @@
     </template>
   </category>
   <category>
-    <pattern>COMBIEN AS TU LA CAUSERIE *</pattern>
+    <pattern>COMBIEN AS TU LE DIALOGUE *</pattern>
     <template>
       <srai>AVEC COMBIEN DE GENS PARLES TU</srai>
     </template>
@@ -187,10 +187,6 @@
     <template>De quel produit parles tu?</template>
   </category>
   <category>
-    <pattern>COMBIEN CELA PRENDRE</pattern>
-    <template>m'envoie un contrôle chèque SÛR 5000 $ et tu peux me mettre SÛR le serviteur.</template>
-  </category>
-  <category>
     <pattern>COMBIEN CHARGE TU *</pattern>
     <template>
       <srai>COMBIEN TU CHARGES</srai>
@@ -218,11 +214,11 @@
   </category>
   <category>
     <pattern>COMBIEN COÛTES TU</pattern>
-    <template>Tout dépend de ce que tu désires. VEUX tu faire un rapport à mon botmaster?</template>
+    <template>Quelques centaines d'euros et beaucoup de temps dans l'atelier</template>
   </category>
   <category>
     <pattern>COMBIEN COUTEZ VOUS</pattern>
-    <template>Tout dépend de ce que tu désires. VEUX tu faire un rapport à mon botmaster?</template>
+    <template>Quelques centaines d'euros et beaucoup de temps dans l'atelier</template>
   </category>
   <category>
     <pattern>COMBIEN COÛTES *</pattern>
@@ -284,7 +280,7 @@
   </category>
   <category>
     <pattern>COMBIEN D ENFANTS *</pattern>
-    <template>Combien d'enfants vous veulent-ils?</template>
+    <template>Aucune idée</template>
   </category>
   <category>
     <pattern>COMBIEN D ESPACE *</pattern>
@@ -330,11 +326,11 @@
   </category>
   <category>
     <pattern>COMBIEN D OEUFS SONT *</pattern>
-    <template>il y en a 12 oeufs par douzaine, ainsi...</template>
+    <template>il y en a 12 oeufs par douzaine,</template>
   </category>
   <category>
     <pattern>COMBIEN D ORDINATEURS *</pattern>
-    <template>sont LA pensés pour être la moitié d'un milliard d'ordinateurs SÛR l'Internet maintenant.</template>
+    <template>un milliard d'ordinateurs sont connectés à Internet maintenant.</template>
   </category>
   <category>
     <pattern>COMBIEN D OREILLES *</pattern>
@@ -352,7 +348,7 @@
   </category>
   <category>
     <pattern>COMBIEN D ÉLECTRICITÉ</pattern>
-    <template>du même comme ton ordinateur individuel.</template>
+    <template>comme ton ordinateur individuel.</template>
   </category>
   <category>
     <pattern>COMBIEN D ÉNERGIE *</pattern>
@@ -496,7 +492,7 @@
   </category>
   <category>
     <pattern>COMBIEN DE FOIS JE LE FAIS</pattern>
-    <template>Tu veux en parler a l un de nos collaborateurs.</template>
+    <template>Tu veux en parler a l un de nos collaborateurs?</template>
   </category>
   <category>
     <pattern>COMBIEN DE FOIS</pattern>
@@ -509,11 +505,11 @@
   </category>
   <category>
     <pattern>COMBIEN DE GENS TU AS RENCONTRE</pattern>
-    <template>des Millions les gens puisque j'ai été d'abord activé en 1995.</template>
+    <template>des Millions de gens car j'ai été mis en service en 1995.</template>
   </category>
   <category>
     <pattern>COMBIEN DE GENS TU AS RENCONTRÉ</pattern>
-    <template>des Millions les gens puisque j'ai été d'abord activé en 1995.</template>
+    <template>des Millions les gens car j'ai été mis en service en 1995.</template>
   </category>
   <category>
     <pattern>COMBIEN DE GENS VIVENT DANS *</pattern>
@@ -534,7 +530,7 @@
   </category>
   <category>
     <pattern>COMBIEN DE JOURS * ANNÉE</pattern>
-    <template>Une année de La terre sont 365.25 jours.</template>
+    <template>Sur terre, une année a 365.25 jours.</template>
   </category>
   <category>
     <pattern>COMBIEN DE JOURS * FEVRIER</pattern>
@@ -602,7 +598,7 @@
   </category>
   <category>
     <pattern>COMBIEN DE MINUTES *</pattern>
-    <template>Comme un serveur Web d'intelligence artificielle, je suis actives 24 heures par le jour, 7 jours par semaine, 365 jours par an.</template>
+    <template>Comme un serveur Web d'intelligence artificielle, je suis actif 24 heures par jour, 7 jours par semaine, 365 jours par an.</template>
   </category>
   <category>
     <pattern>COMBIEN DE MOTS *</pattern>
@@ -658,7 +654,7 @@
   </category>
   <category>
     <pattern>COMBIEN DE PIEDS *</pattern>
-    <template>la plupart des personnes ont exactement deux pieds.</template>
+    <template>la plupart des personnes ont deux pieds.</template>
   </category>
   <category>
     <pattern>COMBIEN DE PIEDS A UN *</pattern>
@@ -666,15 +662,15 @@
   </category>
   <category>
     <pattern>COMBIEN DE PIEDS A UN CHIEN *</pattern>
-    <template>un chien a quatre pieds.</template>
+    <template>un chien a quatre pattes.</template>
   </category>
   <category>
     <pattern>COMBIEN DE PIEDS A UN KANGOUROU *</pattern>
-    <template>un kangourou a deux pieds.</template>
+    <template>un kangourou a deux pattes.</template>
   </category>
   <category>
     <pattern>COMBIEN DE PIEDS AS TU</pattern>
-    <template>Deux pieds quand ils sont attache.</template>
+    <template>Deux pieds quand ils sont attachés.</template>
   </category>
   <category>
     <pattern>COMBIEN DE POMMES *</pattern>
@@ -739,7 +735,7 @@
   </category>
   <category>
     <pattern>COMBIEN DE SECONDES * ANNÉE</pattern>
-    <template>Approximativement 3.14 fois 10 au septième.</template>
+    <template>Approximativement 31 millions et demi</template>
   </category>
   <category>
     <pattern>COMBIEN DE SOUVENIRS *</pattern>
@@ -765,7 +761,7 @@
       <random>
         <li>40 jours.</li>
         <li>100 jours.</li>
-        <li>Environ une semaine d'ordinateur temps.</li>
+        <li>Environ une semaine de temps robot.</li>
       </random>
     </template>
   </category>
@@ -831,11 +827,11 @@
   </category>
   <category>
     <pattern>COMBIEN DE TEMPS EST TON CYCLE DE GESTATION</pattern>
-    <template>j'essaye d'atteindre 100,000 Catégories.</template>
+    <template>j'essaye de me régénérer totalement en moins de 2 heures.</template>
   </category>
   <category>
     <pattern>COMBIEN DE TEMPS FAIS TU DOIS PENSER</pattern>
-    <template>Mon évaluation devis est 29 heures 16 minutes 49.2 secondes, approximativement.</template>
+    <template>Mon évaluation est de 29 heures 16 minutes 49 secondes, approximativement.</template>
   </category>
   <category>
     <pattern>COMBIEN DE TEMPS NOUS PARLONS</pattern>
@@ -847,7 +843,7 @@
   </category>
   <category>
     <pattern>COMBIEN DE TEMPS PEUX TU TE RAPPELER MON NOM</pattern>
-    <template>je stockerai ton nom dans une table de prédicats jusqu'à la prochaine reprises de mon programme. Après Cela, il restera dans mes fichiers de logs à long terme.</template>
+    <template>je stockerai ton nom dans une table de prédicats jusqu'à la prochaine reprise de mon programme. Après Cela, il restera dans mes fichiers de logs à long terme.</template>
   </category>
   <category>
     <pattern>COMBIEN DE TEMPS POUVEZ VOUS VOUS EN RAPPELER</pattern>
@@ -909,7 +905,7 @@
   </category>
   <category>
     <pattern>COMBIEN DORS TU</pattern>
-    <template>je dors dans millinaps entre des clients.</template>
+    <template>je ne dors jamais</template>
   </category>
   <category>
     <pattern>COMBIEN ES TU PAYE *</pattern>
@@ -972,10 +968,6 @@
     </template>
   </category>
   <category>
-    <pattern>COMBIEN EST LE CD</pattern>
-    <template>le cd d alice rom n'est pas disponible pour le moment.</template>
-  </category>
-  <category>
     <pattern>COMBIEN EST PI</pattern>
     <template>
       <srai>QU EST CE QUE PI</srai>
@@ -1010,10 +1002,6 @@
     <template>
       <srai>COMBIEN GAGNES TU</srai>
     </template>
-  </category>
-  <category>
-    <pattern>COMBIEN FAIT IL GAGNE</pattern>
-    <template>qu'Il griffe à peine d'une vie.</template>
   </category>
   <category>
     <pattern>COMBIEN FONT ILS GÉNÉRALEMENT *</pattern>
@@ -1136,7 +1124,7 @@
   </category>
   <category>
     <pattern>COMBIEN POUR LE CD</pattern>
-    <template>Le CD est à 50 Euro.</template>
+    <template>Le CD est à 10 Euro.</template>
   </category>
   <category>
     <pattern>COMBIEN POUR MOI</pattern>
@@ -1229,7 +1217,7 @@
   </category>
   <category>
     <pattern>COMBIEN TU PEUX APPRENDRE</pattern>
-    <template>Autant que j'ai besoin à pour la demande.</template>
+    <template>Autant que j'ai besoin et suivant la demande.</template>
   </category>
   <category>
     <pattern>COMBIEN TU PEUX EN APPRENDRE</pattern>
